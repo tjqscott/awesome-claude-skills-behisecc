@@ -136,6 +136,7 @@
 
 
 ## 📘 Learning & Knowledge  
+- [Dory](https://github.com/tjqscott/dory) - Claude Code skills for maintaining project memory in a linked Markdown wiki, with a findings ledger, taskboard, and structural lint hooks.
 - [karpathy-llm-wiki](https://github.com/Astro-Han/karpathy-llm-wiki) - Markdown-first skill for building and maintaining a personal LLM wiki from raw sources, compiled knowledge pages, query workflows, and linting.
 - [tapestry](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/tapestry) - Interlink and summarize related documents into knowledge networks.  
 - [ship-learn-next](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/ship-learn-next) - Skill to help iterate on what to build or learn next, based on feedback loops.
